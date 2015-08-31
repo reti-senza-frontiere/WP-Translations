@@ -1,0 +1,375 @@
+# Copyright (C) 2015 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Print Invoice/Packing list 2.5.0\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-06-15 22:41:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-28 06:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ita\n"
+"X-Generator: Poedit 1.7.5\n"
+
+#: woocommerce-pip-template/email-template.php:63
+#: woocommerce-pip-template/email-template.php:71
+#: woocommerce-pip-template/template-body.php:6
+msgid "Invoice"
+msgstr "Ricevuta"
+
+#: woocommerce-pip-template/email-template.php:72
+#: woocommerce-pip-template/template-body.php:10
+msgid "Order"
+msgstr "Ordine"
+
+#: woocommerce-pip-template/email-template.php:83
+#: woocommerce-pip-template/template-body.php:25
+msgid "Billing address"
+msgstr "Indirizzo di fatturazione"
+
+#: woocommerce-pip-template/email-template.php:88
+#: woocommerce-pip-template/template-body.php:32
+msgid "VAT:"
+msgstr "IVA:"
+
+#: woocommerce-pip-template/email-template.php:91
+#: woocommerce-pip-template/template-body.php:35
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce-pip-template/email-template.php:94
+#: woocommerce-pip-template/template-body.php:38
+msgid "Tel:"
+msgstr "Tel:"
+
+#: woocommerce-pip-template/email-template.php:98
+#: woocommerce-pip-template/template-body.php:45
+msgid "Shipping address"
+msgstr "Indirizzo di spedizione"
+
+#: woocommerce-pip-template/email-template.php:107
+#: woocommerce-pip-template/template-body.php:79
+msgid "Order notes"
+msgstr "Note:"
+
+#: woocommerce-pip-template/email-template.php:117
+#: woocommerce-pip-template/template-body.php:90
+#: woocommerce-pip-template/template-body.php:151
+msgid "SKU"
+msgstr "SKU"
+
+#: woocommerce-pip-template/email-template.php:118
+#: woocommerce-pip-template/template-body.php:91
+#: woocommerce-pip-template/template-body.php:152
+msgid "Product"
+msgstr "Prodotto"
+
+#: woocommerce-pip-template/email-template.php:119
+#: woocommerce-pip-template/template-body.php:92
+#: woocommerce-pip-template/template-body.php:153
+msgid "Quantity"
+msgstr "Quantità"
+
+#: woocommerce-pip-template/email-template.php:120
+#: woocommerce-pip-template/template-body.php:93
+msgid "Price"
+msgstr "Prezzo"
+
+#: woocommerce-pip-template/email-template.php:126
+#: woocommerce-pip-template/template-body.php:99
+msgid "Subtotal:"
+msgstr "Subtotale:"
+
+#: woocommerce-pip-template/email-template.php:131
+#: woocommerce-pip-template/template-body.php:72
+#: woocommerce-pip-template/template-body.php:104
+msgid "Shipping:"
+msgstr "Spedizione:"
+
+#: woocommerce-pip-template/email-template.php:137
+#: woocommerce-pip-template/template-body.php:110
+msgid "Cart Discount:"
+msgstr "Sconto:"
+
+#: woocommerce-pip-template/email-template.php:142
+#: woocommerce-pip-template/template-body.php:115
+msgid "Order Discount:"
+msgstr "Sconto complessivo:"
+
+#: woocommerce-pip-template/email-template.php:147
+msgid "Tax:"
+msgstr "Tasse:"
+
+#: woocommerce-pip-template/email-template.php:152
+#: woocommerce-pip-template/template-body.php:139
+msgid "Total:"
+msgstr "Totale:"
+
+#: woocommerce-pip-template/template-body.php:2
+msgid "Print"
+msgstr "Stampa"
+
+#: woocommerce-pip-template/template-body.php:8
+msgid "Packing list"
+msgstr "Nota di consegna"
+
+#: woocommerce-pip-template/template-body.php:60
+msgid "Tracking provider:"
+msgstr "Fornitore:"
+
+#: woocommerce-pip-template/template-body.php:63
+msgid "Tracking number:"
+msgstr "Numero di tracciamento:"
+
+#: woocommerce-pip-template/template-body.php:127
+msgid "Total Tax:"
+msgstr "Tasse totali:"
+
+#: woocommerce-pip-template/template-body.php:140
+msgid "- via"
+msgstr "- via"
+
+#: woocommerce-pip-template/template-body.php:154
+msgid "Total Weight"
+msgstr "Peso totale"
+
+#: woocommerce-pip-template/template-header.php:5
+msgid "Print order details"
+msgstr "Stampa dettagli dell'ordine"
+
+#: woocommerce-pip.php:45
+msgid ""
+"%sWooCommerce Print Invoice/Packaging List is inactive.%s This version "
+"requires WooCommerce 2.1 or newer. Please %supdate WooCommerce to version "
+"2.1 or newer%s"
+msgstr ""
+
+#: woocommerce-pip.php:133 woocommerce-pip.php:306
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: woocommerce-pip.php:134
+msgid "Docs"
+msgstr "Documentazione"
+
+#: woocommerce-pip.php:135
+msgid "Support"
+msgstr "Supporto"
+
+#: woocommerce-pip.php:207
+msgid "PIP settings"
+msgstr "Impostazioni fatture"
+
+#: woocommerce-pip.php:225 woocommerce-pip.php:226
+msgid "Print invoice"
+msgstr "Stampa ricevuta"
+
+#: woocommerce-pip.php:228 woocommerce-pip.php:229
+msgid "Print packing list"
+msgstr "Stampa nota di consegna"
+
+#: woocommerce-pip.php:251
+msgid "View invoice"
+msgstr "Vedi fattura"
+
+#: woocommerce-pip.php:269
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi sufficienti per accedere a questa pagina."
+
+#: woocommerce-pip.php:296
+msgid "WooCommerce - Print invoice/packing list settings"
+msgstr "Woocommerce - Stampa impostazioni fatturazione/note di consegna"
+
+#: woocommerce-pip.php:298
+msgid "Your settings have been saved."
+msgstr "Impostazioni salvate."
+
+#: woocommerce-pip.php:300
+msgid "Change settings for print invoice/packing list."
+msgstr "Cambia i dati di fatturazione e le note di consegna."
+
+#: woocommerce-pip.php:311
+msgid "Company name:"
+msgstr "Compagnia:"
+
+#: woocommerce-pip.php:316
+msgid "Your custom company name for the print."
+msgstr "Il nome della tua Attività sulle ricevute."
+
+#: woocommerce-pip.php:317 woocommerce-pip.php:332 woocommerce-pip.php:345
+#: woocommerce-pip.php:358 woocommerce-pip.php:371 woocommerce-pip.php:385
+msgid "Note:"
+msgstr "Nota:"
+
+#: woocommerce-pip.php:318
+msgid "Leave blank to not to print a company name."
+msgstr "Lascia vuoto per non visualizzare alcun nome."
+
+#: woocommerce-pip.php:324
+msgid "Custom logo:"
+msgstr "Logo:"
+
+#: woocommerce-pip.php:328
+msgid "Upload Image"
+msgstr "Carica immagine"
+
+#: woocommerce-pip.php:331
+msgid "Your custom logo for the print."
+msgstr "Il logo da visualizzare sulle ricevute."
+
+#: woocommerce-pip.php:333
+msgid "Leave blank to not to use a custom logo."
+msgstr "Lascia vuoto per non visualizzare alcun logo."
+
+#: woocommerce-pip.php:339
+msgid "Company extra info:"
+msgstr "Intestazione attività:"
+
+#: woocommerce-pip.php:344
+msgid "Some extra info that is displayed under company name."
+msgstr "Dati aggiuntivi che saranno visualizzati sotto al nome."
+
+#: woocommerce-pip.php:346
+msgid "Leave blank to not to print the info."
+msgstr "Lascia vuoto per non visualizzare niente."
+
+#: woocommerce-pip.php:352
+msgid "Returns Policy, Conditions, etc.:"
+msgstr "Resi, condizioni di servizio, ecc..."
+
+#: woocommerce-pip.php:357
+msgid ""
+"Here you can add some policies, conditions etc. For example add a returns "
+"policy in case the client would like to send back some goods."
+msgstr ""
+"Aggiungi regolamenti, condizioni, ecc... Per esempio, aggiungi delle "
+"regole per i resi nel caso in cui il cliente voglia restituire i prodotti."
+
+#: woocommerce-pip.php:359
+msgid "Leave blank to not to print any policy."
+msgstr "Lascia vuoto per non visualizzare niente."
+
+#: woocommerce-pip.php:365
+msgid "Custom footer:"
+msgstr "Intestazione a piè di pagina:"
+
+#: woocommerce-pip.php:370
+msgid "Your custom footer for the print."
+msgstr "Piè di pagina personalizzato."
+
+#: woocommerce-pip.php:372
+msgid "Leave blank to not to print a footer."
+msgstr "Lascia vuoto per non visualizzare niente."
+
+#: woocommerce-pip.php:378
+msgid "Invoice counter start:"
+msgstr "Inizio del contatore delle ricevute:"
+
+#: woocommerce-pip.php:381
+msgid "Reset invoice numbering"
+msgstr "Reimposta la numerazione"
+
+#: woocommerce-pip.php:384
+msgid ""
+"Reset the invoice counter to start your custom position for example 103. "
+"Leading zeros will be trimmed. Use prefix instead."
+msgstr ""
+"Reimposta la numerazione in modo che parta per esempio da 103. Gli zeri "
+"iniziali saranno rimossi, se lo preferisci usa un prefisso invece."
+
+#: woocommerce-pip.php:386
+msgid "You need to check the checkbox to actually reset the value."
+msgstr "Devi flaggare questo campo per resettare il valore."
+
+#: woocommerce-pip.php:392
+msgid "Invoice numbering prefix:"
+msgstr "Prefisso numerazione:"
+
+#: woocommerce-pip.php:397
+msgid "Set your custom prefix for the invoice numbering."
+msgstr "Imposta un prefisso personalizzato per la numerazione."
+
+#: woocommerce-pip.php:403
+msgid "Invoice numbering suffix:"
+msgstr "Suffisso numerazione."
+
+#: woocommerce-pip.php:408
+msgid "Set your custom suffix for the invoice numbering."
+msgstr "Imposta un suffisso personalizzato per la numerazione."
+
+#: woocommerce-pip.php:414
+msgid "Preview before printing:"
+msgstr "Mostra l'anteprima prima di stampare:"
+
+#: woocommerce-pip.php:419 woocommerce-pip.php:424 woocommerce-pip.php:437
+#: woocommerce-pip.php:442
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: woocommerce-pip.php:421 woocommerce-pip.php:426 woocommerce-pip.php:439
+#: woocommerce-pip.php:444
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: woocommerce-pip.php:432
+msgid "Send invoice as HTML email:"
+msgstr "Invia la ricevuta via e-mail in formato HTML:"
+
+#: woocommerce-pip.php:453
+msgid "Save Changes"
+msgstr "Salva cambiamenti"
+
+#: woocommerce-pip.php:471
+msgid "Print invoice/packing list"
+msgstr "Stampa ricevuta/nota di consegna"
+
+#: woocommerce-pip.php:490
+msgid "Invoice: #"
+msgstr "Ricevuta: #"
+
+#: woocommerce-pip.php:494 woocommerce-pip.php:517
+msgid "Print Invoice"
+msgstr "Stampa ricevuta"
+
+#: woocommerce-pip.php:495 woocommerce-pip.php:518
+msgid "Print Packing List"
+msgstr "Stampa nota di consegna"
+
+#: woocommerce-pip.php:497
+msgid "Send Email Invoice"
+msgstr "Invia la ricevuta via e-mail"
+
+#: woocommerce-pip.php:574
+msgid "n/a"
+msgstr "n/a"
+
+#: woocommerce-pip.php:916
+msgid "Order invoice"
+msgstr "Ricevuta dell'ordine"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Print Invoice/Packing list"
+msgstr "Woocommerce - Stampa impostazioni fatturazione/note di consegna"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/print-invoices-packing-lists/"
+msgstr "http://www.woothemes.com/products/print-invoices-packing-lists/"
+
+#. Description of the plugin/theme
+msgid ""
+"Customize and print invoice/packing lists for WooCommerce orders from the "
+"WordPress Admin"
+msgstr ""
+"Personalizza e stampa fatture / note di consegna per gli ordini di "
+"Woocommerce dall'amministrazione di WordPress"
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr "SkyVerge"
+
+#. Author URI of the plugin/theme
+msgid "http://www.skyverge.com"
+msgstr "http://www.skyverge.com"
